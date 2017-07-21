@@ -14,3 +14,7 @@ ejecutas git checkout ever
 # Forzar pull limpiando HEAD
 git reset --hard HEAD
 git pull origin master
+
+# Cambiar URL Remota
+
+git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
