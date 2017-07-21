@@ -23,7 +23,12 @@ git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 #Please enter a commit message to explain why this merge is necessary,especially if it merges an updated upstream into a topic branch
 
 1 - press "i"
+
 2 - write your merge message
+
 3 - press "esc"
+
 4 - write ":wq"
+
 5 - then press enter 
+
