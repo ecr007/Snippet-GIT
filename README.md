@@ -20,7 +20,7 @@ git pull origin master
 git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 
 
-#Please enter a commit message to explain why this merge is necessary,especially if it merges an updated upstream into a topic branch
+# Please enter a commit message to explain why this merge is necessary,especially if it merges an updated upstream into a topic branch
 
 1 - press "i"
 
