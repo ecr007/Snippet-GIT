@@ -26,4 +26,4 @@ git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 2 - write your merge message
 3 - press "esc"
 4 - write ":wq"
-5 - then press enter
+5 - then press enter 
