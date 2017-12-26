@@ -32,3 +32,12 @@ git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 
 5 - then press enter 
 
+
+# Borrar archivos del git / para aplicar el .gitignore
+
+```
+git rm --cached /\*.exe
+
+git rm --cached .externalNativeBuild
+```
+
