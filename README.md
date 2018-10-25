@@ -2,7 +2,7 @@
 
 Clonas el repositorio normalmente
 
-git checkout -b <branch-name> 
+git checkout -b NOMBRE DE LA NUEVA RAMA 
 
 
 # Forzar pull limpiando HEAD
