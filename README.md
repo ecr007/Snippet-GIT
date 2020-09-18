@@ -2,7 +2,7 @@
 
 Clonas el repositorio normalmente
 
-```
+```git
 git checkout -b NOMBRE DE LA NUEVA RAMA 
 ```
 
