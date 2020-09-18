@@ -2,16 +2,31 @@
 
 Clonas el repositorio normalmente
 
+```
 git checkout -b NOMBRE DE LA NUEVA RAMA 
-
+```
 
 # Forzar pull limpiando HEAD
+```
 git reset --hard HEAD
 git pull origin master
+```
 
 # Cambiar URL Remota
 
+```
 git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
+
+//Ahora en bitbucket es:
+
+git remote add origin URL
+```
+
+# Ver URL Remotas
+
+```
+git remote -v
+```
 
 
 # Please enter a commit message to explain why this merge is necessary,especially if it merges an updated upstream into a topic branch
