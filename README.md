@@ -15,11 +15,14 @@ git pull origin master
 # Cambiar URL Remota
 
 ```
+---> git remote add origin URL <---
+
+En desuzo
 git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 
 //Ahora en bitbucket es:
 
-git remote add origin URL
+
 ```
 
 # Ver URL Remotas
