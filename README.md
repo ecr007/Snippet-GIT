@@ -6,6 +6,14 @@ Clonas el repositorio normalmente
 git checkout -b NOMBRE DE LA NUEVA RAMA 
 ```
 
+# Usar nuevos tokens de Github
+
+```
+git remote remove origin
+git remote add origin https://[TOKEN]@github.com/[USER]/[REPO]
+git push
+```
+
 # Forzar pull limpiando HEAD
 ```
 git reset --hard HEAD
