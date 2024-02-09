@@ -20,6 +20,13 @@ git reset --hard HEAD
 git pull origin master
 ```
 
+## Discarding changes in a specific branch
+
+```shell
+git fetch origin
+git reset --hard origin/stable
+```
+
 # Cambiar URL Remota
 
 ```
